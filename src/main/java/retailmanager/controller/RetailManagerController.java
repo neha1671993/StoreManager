@@ -180,7 +180,7 @@ public class RetailManagerController {
 	 * 
 	 * Use to GET All Shop Details 
 	 * 
-	 * http://localhost:8080/getShopList
+	 * http://localhost:8080/getAllShopList
 	 * 
 	 * @return
 	 */

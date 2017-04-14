@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Retailmanager
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Neha Singla
+Implementation-Vendor-Id: com.retailmanager
+Build-Jdk: 1.8.0_20
+Implementation-URL: http://projects.spring.io/spring-boot/retailmanage
+ r/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
